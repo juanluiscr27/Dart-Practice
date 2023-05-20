@@ -5,16 +5,6 @@ Learn the Dart programming language in this full tutorial for beginners. Dart is
 
 Since Dart supports both AOT (Ahead of time) and JIT (Just In Time) compilation, it delivers extremely fast development cycles and fast execution and startup times. It is a compiled programming language and can also transpile the code into JavaScript. (freeCodeCamp.org)
 
-
-
-
-
-
-
-
-
-
-
 ## Fundamentals
 Syntax basics, Variables, Comments, Imports
 
