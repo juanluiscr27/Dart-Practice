@@ -9,23 +9,36 @@ Since Dart supports both AOT (Ahead of time) and JIT (Just In Time) compilation,
 Syntax basics, Variables, Comments, Imports
 
 ## Data Types
-Types, String, Type Conversion, Constant, null
+Built-in types, Numbers, String, Type Conversion, Constant, null
+Aggregate types, Records, Collections and Generics
+Other special types
 
 ## Patterns
+Matching
+Destructuring
 
 ## Operators
 Arithmetic operators
 Logical operators
 relational operators
-## Loop
-
-## Collections [List, Set, Map]
-
-## Functions
-Functions
 
 ## Control flow
-Control flow statements
+Loops
+Conditional statements
+
+## Collections 
+Records
+List
+Set
+Map
+Generics
+
+## Functions
+Parameters, return values, as objects
+Anonymous functions
+Scope
+Closure
+Generators
 
 ## Class
 Classes & objects
@@ -36,10 +49,14 @@ Interfaces and abstract classes
 
 ## Error handling
 Exceptions
+Assert
 
 ## Concurrency
 Async
+Isolates
 
 ## Null safety
+Sound null safety
+Unsound null safety
 
 # Clean code

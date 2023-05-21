@@ -1,5 +1,4 @@
-// Arithmetic operators
-// Dart supports the common arithmetic operators
+// Arithmetic operators. Dart supports the common arithmetic operators
 
 void main() {
   // Add ( + )

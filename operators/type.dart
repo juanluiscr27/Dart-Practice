@@ -1,4 +1,4 @@
-// The as, is, and is! operators are handy for checking types at runtime.
+// Type operators. The as, is, and is! operators are handy for checking types at runtime.
 void main(List<String> args) {
 // ( as ) Typecast (also used to specify library prefixes)
 
