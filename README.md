@@ -14,7 +14,9 @@ Types, String, Type Conversion, Constant, null
 ## Patterns
 
 ## Operators
-
+Arithmetic operators
+Logical operators
+relational operators
 ## Loop
 
 ## Collections [List, Set, Map]
