@@ -1,15 +1,16 @@
-// Dart is a strongly typed language, but support dynamic typing inferring variables' data types
+// Dart is a strongly typed language, but support type inference by the variables' initial value
 
 void main() {
   // Dart supports the following Built-in types:
 
-  // Numbers (int, double)
+  // Numbers (num, int, double)
   int quantity = 10;
   double price = 85.99;
 
   // Strings (String)
   String productName = 'Hard Drive';
-  dynamic customerName = 'John Smith';
+  // The var keyword assign the data type based on the assignment value
+  var customerName = 'John Smith';
 
   // Booleans (bool)
   bool isInStock = true;
@@ -32,4 +33,8 @@ void main() {
   // The value null (Null)
   var empty;
   print(empty);
+
+  // Dynamic allow to assign different data type to same variable
+  dynamic multipleTypes = 'Fist, this is a String type variable';
+  multipleTypes = 25.0;
 }

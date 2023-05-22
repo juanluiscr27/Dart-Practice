@@ -20,18 +20,19 @@ Destructuring
 ## Operators
 Arithmetic operators
 Logical operators
-relational operators
+Relational operators
 
 ## Control flow
 Loops
 Conditional statements
 
-## Collections 
+## Collections  
 Records
 List
 Set
 Map
 Generics
+Iterables and iterator
 
 ## Functions
 Parameters, return values, as objects
@@ -40,12 +41,13 @@ Scope
 Closure
 Generators
 
-## Class
+## Classes
 Classes & objects
 Enums
 Inheritance
 Mixins
 Interfaces and abstract classes
+Import and Export
 
 ## Error handling
 Exceptions
@@ -54,9 +56,26 @@ Assert
 ## Concurrency
 Async
 Isolates
+Futures
+Streams
 
 ## Null safety
 Sound null safety
 Unsound null safety
 
-# Clean code
+## Testing
+Unit Tests
+
+## Clean code
+Style guidelines
+Documentation guide
+Language guide
+Design guide
+
+## Core Libraries
+Core, Numbers, Strings, Dates, Exceptions and Collections
+Async
+Math
+Convert
+HTML
+IO
